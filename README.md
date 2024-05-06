@@ -38,7 +38,6 @@ House Price Prediction is a case study based on the "Hands-on of Machine Learnin
 - [Linear Regression](https://github.com/neemiasbsilva/case-study-data-science/blob/main/house_price_prediction/end_to_end_ml_project_regression.ipynb); - [Decision Tree](https://github.com/neemiasbsilva/case-study-data-science/blob/main/house_price_prediction/end_to_end_ml_project_regression.ipynb); 
 - [Random Forest](https://github.com/neemiasbsilva/case-study-data-science/blob/main/house_price_prediction/end_to_end_ml_project_regression.ipynb); 
 - [Suport Vector Machine](https://github.com/neemiasbsilva/case-study-data-science/blob/main/house_price_prediction/end_to_end_ml_project_regression.ipynb);
-- [ANN](https://github.com/neemiasbsilva/case-study-data-science/blob/main/house_price_prediction/end_to_end_ml_project_regression.ipynb).
 
 ## Healthcare Stroke Using PySpark
 
